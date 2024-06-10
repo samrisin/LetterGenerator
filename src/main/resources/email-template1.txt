@@ -1,0 +1,16 @@
+From: JohnDoe1@gmail.com
+To: [[email]]
+Subject: Congratulations on getting selected for the position of SDEII
+Dear [[first_name]] [[last_name]],
+
+I hope this email Finds you well this is to inform that you have been selected for the position of SDEII.
+You can start at the earliest.
+
+HR will reach you at [[phone1]] for all the details.
+
+Welcome to the company.
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+John Doe 
+
