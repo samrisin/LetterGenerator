@@ -1,5 +1,5 @@
 About Application-
-This Application solves problem of writing letter/email to each and every person when you have to send bulk emails or letters this is a way to go. Just provide your template and run the commands and you have letters/emails.
+This Application solves problem of writing letter/email to each and every person when you have to send bulk emails or letters. Just provide your template and run the commands and you have letters/emails.
 
 1. how to build --
  when you will run doAll, it will download the jar just do gradle sync and you can follow step2.
